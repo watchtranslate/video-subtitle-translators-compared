@@ -1,16 +1,75 @@
 # Video Subtitle Translators Compared
 
-How tools for translating video subtitles compare: videos with no subtitles, sites beyond YouTube, and pricing. Every cell cites a public source and the date it was checked.
+How to get subtitles in your language on any video — YouTube, X, Bilibili, files on your computer or phone — and how the common tools compare. Facts about other tools come from their own pages, with links.
 
 **English** · [简体中文](README.zh-CN.md)
 
+**Translates as you watch, wherever you are in the video.** AI-powered bilingual subtitles in 74 languages.
+
+<p align="center"><img src="assets/demo.gif" width="640" alt="Real screen recording: no captions on the video, bilingual subtitles generated as you watch"></p>
+<p align="center"><sub>Real screen recording: no captions on the video, bilingual subtitles generated as you watch</sub></p>
+
 ## Contents
 
-- [Which YouTube subtitle translator to use?](#which-youtube-subtitle-translator-to-use)
-- [Immersive Translate alternatives for videos](#immersive-translate-alternatives-for-videos)
-- [Immersive Translate or WatchTranslate?](#immersive-translate-or-watchtranslate)
+- [Why WatchTranslate](#why-watchtranslate)
+- [Which tool for which job](#which-tool-for-which-job)
+- [Head-to-head comparisons](#head-to-head-comparisons)
+  - [Which YouTube subtitle translator to use?](#which-youtube-subtitle-translator-to-use)
+  - [Immersive Translate alternatives for videos](#immersive-translate-alternatives-for-videos)
+  - [Immersive Translate or WatchTranslate?](#immersive-translate-or-watchtranslate)
 
-## Which YouTube subtitle translator to use?
+## Why WatchTranslate
+
+- **Translate videos on YouTube, X, Bilibili and more** — Translate existing subtitles directly, or generate bilingual subtitles when there are none.
+- **Better translation quality than traditional machine or real-time translation** — AI language models use context and connect the surrounding dialogue to understand meaning.
+- **Export subtitles as SRT / VTT files** — Download generated subtitles as original, translated, or bilingual text and load them in common players.
+- **Already translated by someone? Watch it free** — Sign up free to reuse generated subtitles for the same video, subtitle source and languages, even after your credits run out.
+
+### Others make you wait. We translate as you watch.
+
+| Upload-based subtitle tools | WatchTranslate |
+| --- | --- |
+| 1. Download the video | 1. Open the video |
+| 2. Upload it to the tool | 2. Click the translate icon |
+| 3. Wait for the whole video to process | 3. Keep watching as subtitles appear |
+| 4. Download the subtitle file |  |
+| 5. Load it into a player and start watching |  |
+| *The longer the video, the longer the wait* | **Jump anywhere and it translates there — no need to translate the whole video first.** |
+
+### Beyond built‑in translation
+
+| Feature | Built-in translation | WatchTranslate |
+| --- | --- | --- |
+| When a video has no captions | Usually can't translate | **Transcribes the speech, then translates** |
+| Translation method | Mostly traditional machine translation, line by line | **AI language models use the surrounding dialogue for more accurate, more natural subtitles** |
+| Subtitle display | Usually the translation only | **Original, translation, or both together** |
+| Where it works | Only inside each platform | **YouTube, X, Bilibili and local videos** |
+
+### Three ways to watch
+
+Same account and points everywhere. Pick what fits your device.
+
+- **Watch unsubtitled videos bilingually** (Desktop browser · YouTube / X / Bilibili) — Install the browser extension and click the translation icon in the video's own player to generate bilingual subtitles as you watch.
+- **Videos on your phone or computer, translated in your browser** (No install · computer and phone) — Open the web player and choose a local video to start, with no software to install. Your video stays on your device; subtitles are generated as you watch.
+- **Plays what your browser can't** (App · Windows / Mac / Android) — Translate local videos on your computer, including formats your browser cannot play.
+- **Bilingual subtitles on your phone** (Phone app · Android) — Play video files on your phone, or open a video site in the app's built-in browser and tap Translate. A native player handles more video formats than the web player.
+
+**20 free points on sign-up** · [Start free →](https://watchtranslate.com/?utm_source=github&utm_medium=readme&utm_campaign=gh_tools&utm_content=start)
+
+## Which tool for which job
+
+| You want to… | Use | Why |
+| --- | --- | --- |
+| Watch a YouTube video that has no captions | **WatchTranslate extension** | Transcribes the speech, then translates, as you watch |
+| Understand videos on X or Bilibili | **WatchTranslate extension** | The same button works on YouTube, X, Bilibili and more |
+| Translate a movie or episode file on your computer | **WatchTranslate web player or Windows / Mac app** | Your video stays on your device; the app plays formats your browser can't |
+| Watch with subtitles on an Android phone | **WatchTranslate Android app** | Your own video files, or video sites in the app's built-in browser |
+| Keep the original line next to the translation | **WatchTranslate** | Original, translation, or both together |
+| Get an SRT or VTT file | **WatchTranslate** | Download original, translated or bilingual subtitles |
+
+## Head-to-head comparisons
+
+### Which YouTube subtitle translator to use?
 
 Sometimes YouTube's auto-translate still doesn't make sense, and sometimes the video has no captions at all. Before switching tools, check whether the new one solves the problem you actually have.
 
@@ -26,7 +85,7 @@ Sometimes YouTube's auto-translate still doesn't make sense, and sometimes the v
 
 [Read the full comparison →](https://watchtranslate.com/guides/best-youtube-subtitle-translator-extensions?utm_source=github&utm_medium=readme&utm_campaign=gh_tools&utm_content=best-youtube-subtitle-translator-extensions)
 
-## Immersive Translate alternatives for videos
+### Immersive Translate alternatives for videos
 
 Before choosing a video translation tool, check whether it can handle videos with no subtitles, whether it works on your phone, and whether it can translate movies stored on your computer. The common options each suit a different way of watching.
 
@@ -41,7 +100,7 @@ Before choosing a video translation tool, check whether it can handle videos wit
 
 [Read the full comparison →](https://watchtranslate.com/guides/immersive-translate-alternatives?utm_source=github&utm_medium=readme&utm_campaign=gh_tools&utm_content=immersive-translate-alternatives)
 
-## Immersive Translate or WatchTranslate?
+### Immersive Translate or WatchTranslate?
 
 Some foreign-language videos come with subtitles, some only have sound, and some are movies sitting on your computer. Which tool fits depends on how you usually watch.
 
@@ -59,7 +118,7 @@ Some foreign-language videos come with subtitles, some only have sound, and some
 
 ## About this list
 
-Maintained by [WatchTranslate](https://watchtranslate.com/?utm_source=github&utm_medium=readme&utm_campaign=gh_tools&utm_content=about), which is one of the tools compared. Each cell states what the tool's own pages say and links to them. Spotted something out of date? Open an issue with a link to the source.
+Maintained by [WatchTranslate](https://watchtranslate.com/?utm_source=github&utm_medium=readme&utm_campaign=gh_tools&utm_content=about). Facts about other tools state what their own pages say and link to them. Spotted something out of date? Open an issue with a link to the source.
 
 <a id="license"></a>
 
